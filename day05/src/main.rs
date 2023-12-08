@@ -1,5 +1,5 @@
 use std::{collections::HashMap, fs, path::PrefixComponent};
-
+// part 2 not working :(
 fn main() {
     let file_input = "example.txt";
 
