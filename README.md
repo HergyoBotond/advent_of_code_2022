@@ -1,5 +1,8 @@
-# advent_of_code_2022
+# advent_of_code
 
-In this repo I am uploading my answers to the 2022 advent of code questions.
+In this repo I am uploading my answers to advent of code questions.
 
-I am using rust to solve the problems.
+Each years questions are in a separate branch.
+In 2023 I used Rust
+In 2024 I used Go
+
